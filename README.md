@@ -1,6 +1,7 @@
 # RosettaDrone
 
-This is the official and actively maintained RosettaDrone project.
+This is NOT the official and actively maintained RosettaDrone project.
+This is a Fork I made for a project of my own.
 
 RosettaDrone is a framework for developing and testing software for DJI drones.
 It provides a MAVLink wrapper which allows users to control DJI drones using MAVLink-speaking ground control stations and offers tools and features for implementing and testing AI scripts.
